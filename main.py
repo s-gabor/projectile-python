@@ -125,7 +125,7 @@ class ProjectileApp:
     - run() -> has 2 parts: update the list of shots and interact with the user
     by checking the keys pressed."""
     def __init__(self):
-        self.win = win = GraphWin("Projectile App", 1000, 800, autoflush=False)
+        self.win = win = GraphWin("Projectile App", 500, 500, autoflush=False)
         win.setCoords(-10, -10, 210, 210)
         Line(Point(-5, 0), Point(205, 0)).draw(win)
         for i in range(0, 210, 50):
