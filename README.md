@@ -14,6 +14,12 @@ any platform where Tkinter is available.
 ## INSTALLATION: 
 Put this graphics.py file somewhere where Python can see it.
 
+
+## Video: 
+![About](images/projectile.mp4)
+
+## Images: 
+
 ![About](images/projectile1.png)
 ![About](images/projectile2.png)
 ![About](images/projectile3.png)
